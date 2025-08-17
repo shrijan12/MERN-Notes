@@ -21,4 +21,8 @@
     @apply w-full text-sm bg-blue-600 font-bold tracking-wider
  text-white rounded p-3 my-2 hover:bg-blue-800;
   }
+
+  .ico-btn {
+    @apply text-xl text-slate-300 cursor-pointer hover:text-blue-600;
+  }
 }
